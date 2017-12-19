@@ -17,18 +17,16 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              RGF
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             spam@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/RGFTheCoder/poole
 
 # Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
-
-theme: hyde
